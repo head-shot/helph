@@ -1,19 +1,19 @@
 {
-  "posts": [
+  "Quotes": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Quotation 1"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Quotation 2"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Quotation 3"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "myProfile": {
+    "name": "head-shot"
   }
 }
